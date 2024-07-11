@@ -1,0 +1,1 @@
+select * from DB_COMM.SC_ECOMM.USERS
